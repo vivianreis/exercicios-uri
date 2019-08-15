@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ghr-vivian\\exercicios-uri-online-judge\\csharp\\exercicio-1010\\exercicio-1010.csproj",
+      "projectUniqueName": "C:\\ghr-vivian\\exercicios-uri\\exercicios-uri-online-judge\\csharp\\exercicio-1010\\exercicio-1010.csproj",
       "projectName": "exercicio-1010",
-      "projectPath": "C:\\ghr-vivian\\exercicios-uri-online-judge\\csharp\\exercicio-1010\\exercicio-1010.csproj",
+      "projectPath": "C:\\ghr-vivian\\exercicios-uri\\exercicios-uri-online-judge\\csharp\\exercicio-1010\\exercicio-1010.csproj",
       "packagesPath": "C:\\Users\\VivianReis\\.nuget\\packages\\",
-      "outputPath": "C:\\ghr-vivian\\exercicios-uri-online-judge\\csharp\\exercicio-1010\\obj\\",
+      "outputPath": "C:\\ghr-vivian\\exercicios-uri\\exercicios-uri-online-judge\\csharp\\exercicio-1010\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

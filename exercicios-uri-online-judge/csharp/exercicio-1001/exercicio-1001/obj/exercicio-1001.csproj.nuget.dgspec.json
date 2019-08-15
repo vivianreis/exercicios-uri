@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ghr-vivian\\exercicios-uri-online-judge\\csharp\\exercicio-1001\\exercicio-1001\\exercicio-1001.csproj": {}
+    "C:\\ghr-vivian\\exercicios-uri\\exercicios-uri-online-judge\\csharp\\exercicio-1001\\exercicio-1001\\exercicio-1001.csproj": {}
   },
   "projects": {
-    "C:\\ghr-vivian\\exercicios-uri-online-judge\\csharp\\exercicio-1001\\exercicio-1001\\exercicio-1001.csproj": {
+    "C:\\ghr-vivian\\exercicios-uri\\exercicios-uri-online-judge\\csharp\\exercicio-1001\\exercicio-1001\\exercicio-1001.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ghr-vivian\\exercicios-uri-online-judge\\csharp\\exercicio-1001\\exercicio-1001\\exercicio-1001.csproj",
+        "projectUniqueName": "C:\\ghr-vivian\\exercicios-uri\\exercicios-uri-online-judge\\csharp\\exercicio-1001\\exercicio-1001\\exercicio-1001.csproj",
         "projectName": "exercicio-1001",
-        "projectPath": "C:\\ghr-vivian\\exercicios-uri-online-judge\\csharp\\exercicio-1001\\exercicio-1001\\exercicio-1001.csproj",
+        "projectPath": "C:\\ghr-vivian\\exercicios-uri\\exercicios-uri-online-judge\\csharp\\exercicio-1001\\exercicio-1001\\exercicio-1001.csproj",
         "packagesPath": "C:\\Users\\VivianReis\\.nuget\\packages\\",
-        "outputPath": "C:\\ghr-vivian\\exercicios-uri-online-judge\\csharp\\exercicio-1001\\exercicio-1001\\obj\\",
+        "outputPath": "C:\\ghr-vivian\\exercicios-uri\\exercicios-uri-online-judge\\csharp\\exercicio-1001\\exercicio-1001\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

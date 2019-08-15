@@ -8,3 +8,14 @@ C:\ghr-vivian\exercicios-uri-online-judge\csharp\exercicio-17\obj\Debug\netcorea
 C:\ghr-vivian\exercicios-uri-online-judge\csharp\exercicio-17\obj\Debug\netcoreapp2.2\exercicio-1017.AssemblyInfo.cs
 C:\ghr-vivian\exercicios-uri-online-judge\csharp\exercicio-17\obj\Debug\netcoreapp2.2\exercicio-1017.dll
 C:\ghr-vivian\exercicios-uri-online-judge\csharp\exercicio-17\obj\Debug\netcoreapp2.2\exercicio-1017.pdb
+C:\ghr-vivian\exercicios-uri\exercicios-uri-online-judge\csharp\exercicio-1017\bin\Debug\netcoreapp2.2\exercicio-1017.deps.json
+C:\ghr-vivian\exercicios-uri\exercicios-uri-online-judge\csharp\exercicio-1017\bin\Debug\netcoreapp2.2\exercicio-1017.runtimeconfig.json
+C:\ghr-vivian\exercicios-uri\exercicios-uri-online-judge\csharp\exercicio-1017\bin\Debug\netcoreapp2.2\exercicio-1017.runtimeconfig.dev.json
+C:\ghr-vivian\exercicios-uri\exercicios-uri-online-judge\csharp\exercicio-1017\bin\Debug\netcoreapp2.2\exercicio-1017.dll
+C:\ghr-vivian\exercicios-uri\exercicios-uri-online-judge\csharp\exercicio-1017\bin\Debug\netcoreapp2.2\exercicio-1017.pdb
+C:\ghr-vivian\exercicios-uri\exercicios-uri-online-judge\csharp\exercicio-1017\obj\Debug\netcoreapp2.2\exercicio-1017.csprojAssemblyReference.cache
+C:\ghr-vivian\exercicios-uri\exercicios-uri-online-judge\csharp\exercicio-1017\obj\Debug\netcoreapp2.2\exercicio-1017.csproj.CoreCompileInputs.cache
+C:\ghr-vivian\exercicios-uri\exercicios-uri-online-judge\csharp\exercicio-1017\obj\Debug\netcoreapp2.2\exercicio-1017.AssemblyInfoInputs.cache
+C:\ghr-vivian\exercicios-uri\exercicios-uri-online-judge\csharp\exercicio-1017\obj\Debug\netcoreapp2.2\exercicio-1017.AssemblyInfo.cs
+C:\ghr-vivian\exercicios-uri\exercicios-uri-online-judge\csharp\exercicio-1017\obj\Debug\netcoreapp2.2\exercicio-1017.dll
+C:\ghr-vivian\exercicios-uri\exercicios-uri-online-judge\csharp\exercicio-1017\obj\Debug\netcoreapp2.2\exercicio-1017.pdb

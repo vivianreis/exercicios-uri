@@ -15,7 +15,7 @@ namespace exercicio_1009
             porcentagem = 0.15;
             salarioTotal = salario + (totalVendasVendedor * porcentagem);
 
-            Console.WriteLine($"TOTAL = R $ {salarioTotal.ToString("F2")}");
+            Console.WriteLine($"TOTAL = R$ {salarioTotal.ToString("F2")}");
 
             Console.ReadLine();
         }
